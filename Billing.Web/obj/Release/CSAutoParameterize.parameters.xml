@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BillingCString-Web.config Connection String" description="BillingCString Connection String used in web.config by the application to access the database." defaultValue="Data Source=118.67.219.91;Initial Catalog=DB_A3BEB5_deepatasnim;MultipleActiveResultSets=true; User ID=sa; Password=9o0pOP)(" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Personal\\Projects\\CustomerBillingMgmt\\ASP\.NET-MVC-Customer-Billing-Management\\Billing\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BillingCString']/@connectionString" />
+  </parameter>
+</parameters>
